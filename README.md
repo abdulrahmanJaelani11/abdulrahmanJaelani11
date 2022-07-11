@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [System Informasi Desa](http://harumansari.rf.gd/)
 
-- 🌱 I’m currently learning **CodeIgniter**
+- 🌱 I’m currently learning **Laravel 8**
 
 - 👨‍💻 All of my projects are available at [http://abdulrahmanjaelani11.github.io/](http://abdulrahmanjaelani11.github.io/)
 
-- 💬 Ask me about **PHP CodeIgniter**
+- 💬 Ask me about **PHP**
 
 - 📫 How to reach me **randikaangga9044@gmail.com**
 
